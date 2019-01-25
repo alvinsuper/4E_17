@@ -1,10 +1,10 @@
 # 4E_17
 
 ###
----4
+|4|
 
----5
+|5|
 
----6
+|6|
 
 Esercizio di prima costruzione di un repository remoto
